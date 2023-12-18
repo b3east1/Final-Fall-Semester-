@@ -22,3 +22,4 @@ public class UIManager : MonoBehaviour
 
     }
 }
+    
